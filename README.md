@@ -1,5 +1,5 @@
 # burkinafasso
-{"categorieBurk":[{"name":"Movies","videos":[,{"descriptionBurk":"RTB diffuse des emissions ainsi que les Sports, Musique, Culture et Films d'Action.","sourceBurk":["https://edge17.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8"],"subtitleBurk":"By Channel","thumbBurk":"https://od.lk/s/M18yNjk1NzQwNjBf/burkina.png","titleBurk":"RTB"},
+{"categorieBurk":[{"name":"Movies","videos":[{"descriptionBurk":"RTB diffuse des emissions ainsi que les Sports, Musique, Culture et Films d'Action.","sourceBurk":["https://edge17.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8"],"subtitleBurk":"By Channel","thumbBurk":"https://od.lk/s/M18yNjk1NzQwNjBf/burkina.png","titleBurk":"RTB"},
 
 {"descriptionBurk":"Télévision BF1, première chaine de télévision privée au Burkina Faso. La télévision BF1 se donne pour mission l'information, l'éducation et le divertissement.","sourceBurk":["https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8"],"subtitleBurk":"By Channel","thumbBurk":"https://od.lk/s/M18yODM2MDg4NzNf/bf1.png","titleBurk":"BF1 TV"},
 
