@@ -9,4 +9,7 @@
 
 {"descriptionBurk":"Télévision BF1, première chaine de télévision privée au Burkina Faso. La télévision BF1 se donne pour mission l'information, l'éducation et le divertissement.","sourceBurk":["https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8"],"subtitleBurk":"By Channel","thumbBurk":"https://od.lk/s/M18yODM2MDg4NzNf/bf1.png","titleBurk":"BF1 TV"},
 
+{"descriptionBurk":"Burkina Infos TV est une chaîne de télévision privée au Burkina Faso. La télévision se donne pour mission l'information, l'éducation et le divertissement.","sourceBurk":["http://69.64.57.208/burkinainfo/index.m3u8
+"],"subtitleBurk":"By Channel","thumbBurk":"https://od.lk/s/M18yODM2MDg4NzNf/bf1.png","titleBurk":"BURKINA INFOS"},
+
 {"descriptionBurk":"Impact TV est une chaine de télévision privée au Burkina Faso.","sourceBurk":["https://edge19.vedge.infomaniak.com/livecast/ik:impacttv_2/chunklist_w692795283.m3u8?spark=2360e0bd-82d7-4364-9e53-a4a53a6b8e59&token="],"subtitleBurk":"By Channel","thumbBurk":"https://od.lk/s/M18yODQwNTU4OThf/impactburkina.png","titleBurk":"IMPACT TV"}]}]}
